@@ -1,0 +1,54 @@
+/* General styling */
+body {
+  background-color: black;
+  color: gold;
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #111;
+  padding: 50px;
+  border-bottom: 5px solid gold;
+  box-shadow: 0 4px 10px rgba(255, 215, 0, 0.2);
+}
+
+h1 {
+  font-size: 50px;
+  color: gold;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 22px;
+  color: #f5f5f5;
+}
+
+.intro {
+  padding: 50px 20px;
+  background-color: #222;
+}
+
+.intro h2 {
+  font-size: 36px;
+  color: gold;
+}
+
+.intro img {
+  max-width: 100%;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #111;
+  padding: 20px;
+  color: #f5f5f5;
+  font-size: 18px;
+}
+
+footer p {
+  margin: 0;
+}
